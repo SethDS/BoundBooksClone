@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca759577-e0b1-4946-a45f-aed534e728ef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheet.css" afterPath="$PROJECT_DIR$/stylesheet.css" />
     </list>
@@ -25,8 +24,8 @@
       <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            <state relative-caret-position="586">
+              <caret line="41" column="24" lean-forward="false" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -106,12 +105,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1493137037138</updated>
-      <workItem from="1493137038750" duration="753000" />
+      <workItem from="1493137038750" duration="2760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="753000" />
+    <option name="totallyTimeSpent" value="2760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="41" width="1384" height="736" extended-state="6" />
@@ -173,23 +172,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        <state relative-caret-position="100">
+          <caret line="5" column="80" lean-forward="false" selection-start-line="5" selection-start-column="80" selection-end-line="5" selection-end-column="80" />
           <folding>
-            <marker date="1493137791632" expanded="true" signature="21:535" ph="..." />
-            <marker date="1493137791632" expanded="true" signature="28:130" ph="..." />
-            <marker date="1493137791632" expanded="true" signature="137:527" ph="..." />
-            <marker date="1493137791632" expanded="true" signature="170:485" ph="..." />
-            <marker date="1493137791632" expanded="true" signature="204:474" ph="..." />
-            <marker date="1493137791632" expanded="true" signature="264:459" ph="..." />
+            <marker date="1493140073950" expanded="true" signature="21:838" ph="..." />
+            <marker date="1493140073950" expanded="true" signature="28:211" ph="..." />
+            <marker date="1493140073950" expanded="true" signature="218:830" ph="..." />
+            <marker date="1493140073950" expanded="true" signature="251:788" ph="..." />
+            <marker date="1493140073950" expanded="true" signature="285:777" ph="..." />
+            <marker date="1493140073950" expanded="true" signature="345:540" ph="..." />
+            <marker date="1493140073950" expanded="true" signature="572:592" ph="..." />
+            <marker date="1493140073950" expanded="true" signature="629:762" ph="..." />
+            <marker date="1493140073950" expanded="true" signature="676:743" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        <state relative-caret-position="586">
+          <caret line="41" column="24" lean-forward="false" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
           <folding />
         </state>
       </provider>
