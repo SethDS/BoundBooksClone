@@ -59,32 +59,55 @@ body{
 .menu-text-underline:hover {
     border-bottom: 1px solid white;
 }
+
+
 .menu-dropdown{
+    height: 0;
+    cursor: default;
     position: absolute;
-    width:200px;
-    height: 200px;
-    bottom: -200px;
     background-color: white;
+    width: 300px;
     overflow: hidden;
+    color: black;
+    font-size: xx-small;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-between;
+    top: 100%;
+    right: 9%;
 }
-/*.dropdown-top-left{*/
-    /*position: absolute;*/
-    /*top: -15px;*/
-    /*left: -100px;*/
-    /*width: 100%;*/
-    /*height: 30px;*/
-    /*border-radius: 30px;*/
-    /*background-color: transparent;*/
-/*}*/
-/*.dropdown-top-right{*/
-    /*position: absolute;*/
-    /*top: -15px;*/
-    /*right: -100px;*/
-    /*width: 100%;*/
-    /*height: 30px;*/
-    /*border-radius: 30px;*/
-    /*background-color: transparent;*/
-/*}*/
+.dropdown-right{
+    width: 50px;
+    right: 32%;
+}
+.dropdown-item{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.dropdown-item-right{
+    cursor: pointer;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.dropdown-item-right:hover {
+    color: #e6ca8d;
+}
+
+.dropdown-item:hover {
+    color: #e6ca8d;
+}
+.the-bottom{
+    margin-bottom: 20px;
+}
+
+.show-drop:hover > .menu-dropdown{
+    height: auto;
+}
+
 
 
 .main-header-video{
