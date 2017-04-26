@@ -137,3 +137,18 @@ body{
     letter-spacing: 8px;
     left: 13px;
 }
+
+.main-content-one{
+    position: absolute;
+    top: 90%;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+}
+
+.book-effect-left{
+
+}
+.book-effect-right{
+    
+}
