@@ -7,6 +7,7 @@ body{
     height: 100%;
     width: 100%;
     overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 .main-header{
@@ -140,7 +141,7 @@ body{
 
 .main-content-one{
     position: absolute;
-    top: 90%;
+    top: 95%;
     height: 100%;
     width: 100%;
     background: transparent;
